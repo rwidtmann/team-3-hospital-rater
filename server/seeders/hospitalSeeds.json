@@ -1,0 +1,46 @@
+[
+    {
+        "hospitalName": "Nationwide Children's Hospital",
+        "location": "700 Children's Dr, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Ohio State University Wexner Medical Center",
+        "location": "410 W 10th Ave, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Ohio Health Riverside Methodist Hospital",
+        "location": "3535 Olentangy River Rd, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "OhioHealth Grant Medical Center",
+        "location": "111 S Grant Ave, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Ohio State East Hospital",
+        "location": "181 Taylor Ave, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Mount Caramel East",
+        "location": "6001 E Broad St, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Ohio State Harding Hospital",
+        "location": "1670 Upham Dr, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Columbus Community Hospital",
+        "location": "1430 S High St, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "Select Specialty Hospital - Columbus South",
+        "location": "1430 S High St, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "OhioHealth Doctors Hospital",
+        "location": "5100 W Broad St, Columbus, Ohio."
+    },
+    {
+        "hospitalName": "OhioHealth Rehabilitation Hospital",
+        "location": "1087 Dennison Ave, Columbus, Ohio."
+    }
+]
